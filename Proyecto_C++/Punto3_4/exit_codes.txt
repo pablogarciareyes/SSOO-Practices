@@ -1,0 +1,5 @@
+-1 - Salida estándar de error (errno se encarga de informarnos de manera más específica)
+124 - Fallo al crear proceso hijo
+125 - Fallo al redirigir tubería
+126 - Fallo al leer de tubería (se propaga a execl)
+127 - Fallo al ejecutar el programa con execl

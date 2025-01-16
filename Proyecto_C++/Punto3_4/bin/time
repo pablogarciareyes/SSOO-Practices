@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Hora actual: $(date)"
+echo "Necesito un café"
+echo $REMOTE_PORT

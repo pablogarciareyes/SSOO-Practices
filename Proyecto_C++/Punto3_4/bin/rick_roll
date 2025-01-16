@@ -1,0 +1,3 @@
+#!/bin/bash
+# Mediante echo imprime una imagen del rick_roll (Dado que esto no está implementado en nuestro DocServer debería dar error 500)
+echo "https://media.giphy.com/media/5wWf7H89PisM3nXn3I/giphy.gif" | xargs -I {} wget -O- {} | display
