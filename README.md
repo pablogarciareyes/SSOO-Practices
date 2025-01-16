@@ -5,4 +5,4 @@ I don't allow anyone to present this coding practices to their courses, this is 
 
 My final mark of SSOO practices was 9.00.
 
-BASH - 8.750, C++ - 9.250
+BASH - 8.750 \\ C++ - 9.250
